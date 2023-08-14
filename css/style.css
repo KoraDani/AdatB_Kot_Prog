@@ -1,0 +1,43 @@
+#footer {
+  list-style-type: none;
+  font-size: 10px;
+  text-align: center;
+}
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+
+.fixed_header {
+  width: 800px;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.fixed_header tbody {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  height: 300px;
+}
+
+.fixed_header thead tr {
+  display: block;
+}
+
+.fixed_header thead {
+  background: #343a40;
+  color: #fff;
+}
+
+.fixed_header th,
+.fixed_header td {
+  padding: 5px;
+  text-align: left;
+  width: 500px;
+}
+*{
+  font-family: sans-serif;
+  font-size: 15px;
+}

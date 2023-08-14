@@ -1,0 +1,6 @@
+A főkönyvtárat Kora_Daniel_AdatB_Kot mappát a xampp/htdocs mappába kell belemásolni.
+Az alkalmazás kezdőlapja a kezdo.php amit a php mappában található meg.
+
+Teszt felhasználó és jelszó
+Felhasználó Név: Proba
+Jelszó: Proba123
